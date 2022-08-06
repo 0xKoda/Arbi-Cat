@@ -35,7 +35,7 @@
 
   <footer class="footer footer-center py-10 mx-auto text-base-content rounded">
  
-    <a href="https://Github.com/0xKoda" type="button" class="rounded-full border-2 border-white text-white leading-normal uppercase hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0 transition duration-150 ease-in-out w-9 h-9 m-1">
+    <a href="https://github.com/0xKoda/Arbi-Cat" type="button" class="rounded-full border-2 border-white text-white leading-normal uppercase hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0 transition duration-150 ease-in-out w-9 h-9 m-1">
       <svg aria-hidden="true"
       focusable="false"
       data-prefix="fab"
