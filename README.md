@@ -8,6 +8,8 @@ Connect your wallet to Arbitrum Goerli testnet, pess the connect wallet button a
 
 Take care of your ArbiCat; feed it, play with it and pass time. You will see your cats' attributes evolve as you engage with it.
 
+Note: Each address should only mint 1 Cat.
+
 
 ## Developing
 
